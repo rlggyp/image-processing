@@ -12,3 +12,7 @@ Run the executable
 ```bash
 ./praktikum1
 ```
+
+Result
+---
+![Result](https://i.imgur.com/lyqgSOr.png)

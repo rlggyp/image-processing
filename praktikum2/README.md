@@ -15,4 +15,4 @@ Run the executable
 
 Result
 ---
-![Result](https://imgur.com/a/9tquC1p)
+![Result](https://i.imgur.com/s1yNcwk.png)

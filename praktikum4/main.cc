@@ -39,7 +39,7 @@ int main() {
 
   cv::imshow("and", result_and);
 
-  // XOR operator
+  // XOR operation
   cv::Mat result_xor = soccer_ball.clone();
 
   for (int i = 0; i < soccer_ball_hsv.rows; ++i) {
@@ -52,7 +52,7 @@ int main() {
 
   cv::imshow("xor", result_xor);
 
-  // NOT operator
+  // NOT operation
   cv::Mat result_not = stadium.clone();
 
   for (int i = 0; i < soccer_ball_hsv.rows; ++i) {
@@ -67,7 +67,7 @@ int main() {
 
   cv::imshow("not", result_not);
 
-  // OR operator
+  // OR operation
   cv::Mat result_or = result_not.clone();
 
   for (int i = 0; i < soccer_ball_hsv.rows; ++i) {
